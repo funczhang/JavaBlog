@@ -1,0 +1,2 @@
+# JavaBlog
+some java blogs
